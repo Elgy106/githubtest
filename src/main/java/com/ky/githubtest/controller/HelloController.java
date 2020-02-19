@@ -10,4 +10,6 @@ public class HelloController {
     public String info(){
         return "Hello SpringBoot";
     }
+
+    //开发人员写的一句话
 }
